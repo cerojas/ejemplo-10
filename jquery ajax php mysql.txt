@@ -1,0 +1,3 @@
+http://openenergymonitor.org/emon/node/107
+
+http://www.bloogie.es/tecnologia/programacion/34-ajax-con-jquery,-php-y-json-ejemplo-paso-a-paso
